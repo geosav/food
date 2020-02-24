@@ -4,7 +4,6 @@
     <list default="true" id="91eb1610-76ba-4cbf-940f-954b1c072283" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/yelp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/yelp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/SearchScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SearchScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +42,43 @@
       <updated>1582464214367</updated>
       <workItem from="1582464215741" duration="11565000" />
       <workItem from="1582527899250" duration="1974000" />
-      <workItem from="1582570567358" duration="2184000" />
+      <workItem from="1582570567358" duration="3281000" />
     </task>
+    <task id="LOCAL-00001" summary="Added try/catch.">
+      <created>1582575660829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582575660829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Added try/catch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added try/catch." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1018" y="97" width="869" height="919" key="CommitChangelistDialog2" timestamp="1582575660703">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1018" y="97" width="869" height="919" key="CommitChangelistDialog2/70.27.1850.1053@70.27.1850.1053" timestamp="1582575660703" />
     <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582529872107">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582529872107" />
+    <state x="1052" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1582575669716">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1052" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1850.1053@70.27.1850.1053" timestamp="1582575669716" />
+    <state x="1095" y="127" width="725" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582576690420">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1095" y="127" width="725" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1582576690420" />
   </component>
 </project>
